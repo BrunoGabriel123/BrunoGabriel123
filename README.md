@@ -3,7 +3,8 @@
 
 - 💻 No momento estou estudando desenvolvimento front end
 - 🧑‍💻 Cursando analise e desenvolvimento de sistemas
-
+- Cursando o  Ignite da Rocktseat
+- Cursando Ciencia de Dados no Univesp Ead
   <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,3 +21,4 @@
   <a href="https://www.linkedin.com/in/bruno-gabriel-1228511a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   </div>
+ 
